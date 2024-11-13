@@ -25,7 +25,7 @@
 
 ## Profile
 
-- **Name:** Mahé FRADIN
+- **Name:** Mahé
 - **Description:** AI Developer and Chess Player
 - **Experience:** 2+ years
 - **Proficiencies:**
