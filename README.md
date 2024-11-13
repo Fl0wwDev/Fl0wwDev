@@ -25,7 +25,7 @@
 
 ## Profile
 
-- **Name:** Fl0wwDev
+- **Name:** Mahé FRADIN
 - **Description:** AI Developer and Chess Player
 - **Experience:** 2+ years
 - **Proficiencies:**
