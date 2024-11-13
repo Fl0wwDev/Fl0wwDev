@@ -26,18 +26,13 @@
 ## Profile
 
 - **Name:** Fl0wwDev
-- **Description:** Senior Software Engineer and Professional Chess Player
-- **Experience:** 8+ years
+- **Description:** AI Developer and Chess Player
+- **Experience:** 2+ years
 - **Proficiencies:**
   - Website Development
-  - Neural Networking
-  - Malware Development
-  - Hardware Projects Engineering
-  - Database Penetration
-  - Machine Learning
-  - Prompt Engineering
-  - Database Administration
-  - Mobile Application Development
+  - Application Development
+  - Game Development
+  - API
 
 
 <br>
