@@ -37,6 +37,11 @@
   - Game Development
     
   - API
+    
+  - Database Management
+    
+  - Artificial Intelligence and Machine Learning
+
 
 
 <br>
