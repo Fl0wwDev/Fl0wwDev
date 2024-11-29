@@ -29,9 +29,13 @@
 - **Description:** Engineering student, AI Developer and Chess Player
 - **Experience:** 2+ years
 - **Proficiencies:**
+  
   - Website Development
+    
   - Application Development
+    
   - Game Development
+    
   - API
 
 
